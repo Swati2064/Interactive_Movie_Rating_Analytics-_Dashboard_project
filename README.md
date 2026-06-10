@@ -112,14 +112,7 @@ The dataset contains:
 
 ---
 
-## ▶️ Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/CineInsights.git
-cd CineInsights
-```
 
 ### Install Required Libraries
 
